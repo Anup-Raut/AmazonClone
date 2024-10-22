@@ -7,3 +7,4 @@ Search Bar: A functional search input field with a drop-down for category select
 Hero Section: Displays a large background image with a promotional message.
 Shopping Categories: Different categories with images and links for users to explore various products.
 
+https://youtu.be/68QcDKXuyV4-YT link
